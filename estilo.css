@@ -1,0 +1,66 @@
+html, body {
+    margin: 0;
+}
+
+#fundo {
+    background: url("campo.jpg");
+    height: 100%;
+    text-align: center;
+
+}
+#titulo {
+    color:blue;
+    padding-top: 30%;
+    font-size: 50px;
+}
+#sub {
+    color:blue;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-bottom: 20%;
+    font-size: 30px;
+
+}
+
+#açao {
+
+    border: 1px blue solid;
+    padding: 1px 1px 1px 1px;
+
+}
+
+#dpcs {
+    background-color: blue;
+    color: aliceblue;
+    padding: 20px;
+    text-align: center;
+
+}
+
+#diretoria {
+    background-color: brown;
+    color:aliceblue;
+    padding: 20px;
+    text-align: center;
+}
+
+#fim {
+    background-color: blanchedalmond;
+    color:blue;
+    padding: 20px;
+    text-align: center;
+    
+}
+footer {
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    margin: 2px;
+    padding: 2px;
+}
+.ordem {
+    width: 180px;
+    padding-left: 10px;
+}
+
+
